@@ -1,0 +1,19 @@
+.info-card{
+    padding: 0 5px;
+}
+.info-primary{
+    background-color: #148941;
+}
+.info-danger{
+    background-color: #954133;
+}
+.info-dark{
+    background-color: #547812;
+}
+.info-container{
+    height: 120px;
+    padding: 40px;
+}
+.info-icon{
+    font-size: 3em;
+}
